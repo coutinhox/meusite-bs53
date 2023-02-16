@@ -15,7 +15,7 @@
         <h5 class="text-uppercase">Links Úteis</h5>
         <ul class="list-unstyled mb-0">
           <li>
-            <a href="pages/sobre.php" class="text-dark">Sobre</a>
+            <a href="/aulas/meusite-bs53/index.php" class="text-dark">Sobre</a>
           </li>
           <li>
             <a href="#" class="text-dark">Termos de Uso</a>

@@ -10,32 +10,32 @@
     <div class="collapse navbar-collapse" id="navbarNav">
       <ul class="navbar-nav">
         <li class="nav-item">
-          <a class="nav-link" href="/aulas/bootstrap53/index.php">Home</a>
+          <a class="nav-link" href="/aulas/meusite-bs53/index.php">Home</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="/aulas/bootstrap53/pages/suporte.php">Suporte</a>
+          <a class="nav-link" href="/aulas/meusite-bs53/pages/suporte.php">Suporte</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="/aulas/bootstrap53/pages/tutorial.php">Tutorial</a>
+          <a class="nav-link" href="/aulas/meusite-bs53/pages/tutorial.php">Tutorial</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="/aulas/bootstrap53/pages/sobre.php">Sobre</a>
+          <a class="nav-link" href="/aulas/meusite-bs53/pages/sobre.php">Sobre</a>
         </li>
         <li class="nav-item dropdown">
           <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
             Diversos
           </a>
           <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
-            <li><a class="dropdown-item" href="/aulas/bootstrap53/pages/podcasts.php">Podcast Tecnologia</a></li>
-            <li><a class="dropdown-item" href="/aulas/bootstrap53/pages/usuarios.php">Usuarios por Local</a></li>
-            <li><a class="dropdown-item" href="/aulas/bootstrap53/pages/membros.php">Membros por Local</a></li>
+            <li><a class="dropdown-item" href="/aulas/meusite-bs53/pages/podcasts.php">Podcast Tecnologia</a></li>
+            <li><a class="dropdown-item" href="/aulas/meusite-bs53/pages/usuarios.php">Usuarios por Local</a></li>
+            <li><a class="dropdown-item" href="/aulas/meusite-bs53/pages/membros.php">Membros por Local</a></li>
             <li>
               <hr class="dropdown-divider">
             </li>
-            <li><a class="dropdown-item" href="/aulas/bootstrap53/pages/aprenderti.php">Aprender TI</a></li>
+            <li><a class="dropdown-item" href="/aulas/meusite-bs53/pages/aprenderti.php">Aprender TI</a></li>
           </ul>
         <li class="nav-item">
-          <a class="nav-link" href="/aulas/bootstrap53/pages/contato.php">Contato</a>
+          <a class="nav-link" href="/aulas/meusite-bs53/pages/contato.php">Contato</a>
         </li>
 
       </ul>
